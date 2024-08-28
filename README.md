@@ -1,0 +1,1 @@
+# Wireless-Power-Transfer-with-Toroidal-Inductor-on-Different-Orientations
